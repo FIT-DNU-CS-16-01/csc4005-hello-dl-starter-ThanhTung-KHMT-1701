@@ -66,11 +66,11 @@ Sinh viên nộp lại toàn bộ project sau khi đã chạy xong, bao gồm:
 - ảnh chụp màn hình terminal hoặc output thành công
 
 ## Sinh viên cần cập nhật README này
-- Họ tên:
-- MSSV:
-- Lớp:
-- Hệ điều hành:
-- Python version:
-- Torch version:
-- Thiết bị chạy: CPU / GPU
-- Ghi chú lỗi gặp phải khi setup (nếu có):
+- Họ tên: Lưu Thanh Tùng
+- MSSV: 1771040029
+- Lớp: KHMT - 1701
+- Hệ điều hành: Windows
+- Python version: 3.10.20
+- Torch version: 2.11.0+cpu
+- Thiết bị chạy: CPU
+- Ghi chú lỗi gặp phải khi setup (nếu có): không có lỗi
